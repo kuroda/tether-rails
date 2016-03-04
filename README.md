@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/tether-rails.svg)](https://badge.fury.io/rb/tether-rails)
 # tether-rails
 
 This gem wraps the [Tether](http://tether.io/docs/welcome/) JavaScript library so that it can be included easily in the Rails asset pipeline.
