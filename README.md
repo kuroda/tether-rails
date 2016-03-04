@@ -13,7 +13,7 @@ and run `bundle install`
 
 Then, add tether-rails to your `application.js` manifest
 ```
-//= require tether-rails
+//= require tether
 ```
 and include the stylesheets in your `application.css` manifest
 ```
